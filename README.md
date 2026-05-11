@@ -87,7 +87,7 @@ blog-platform/
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/blog-platform.git
+git clone https://github.com/Pratikjais1505/Blogging-Platform.git
 cd blog-platform
 ```
 
